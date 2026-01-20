@@ -1,0 +1,31 @@
+#4.0# 37 "Keys Nord" 0 %0011111100010100 1                                                                                     
+/config "Keys" 1 RD
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24  38
+/gate OFF GATE -80.0 60.0 10 50.2  258 0
+/gate/filter OFF 3.0 990.9
+/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 LShv 129.1 +8.50 0.9
+/eq/2 PEQ 7k87 +2.50 1.1
+/eq/3 PEQ 957.3 -3.25 2.4
+/eq/4 HShv 20k00 -15.0 2.0
+/mix OFF   -oo ON -100 OFF   -oo
+/mix/01 ON   -oo -100 EQ-> 0
+/mix/02 ON   -oo
+/mix/03 ON  -9.3 -100 EQ-> 0
+/mix/04 ON -28.0
+/mix/05 ON  -4.0 -100 EQ-> 0
+/mix/06 ON   -oo
+/mix/07 OFF  -2.0 -100 EQ-> 0
+/mix/08 OFF  -2.0
+/mix/09 ON  +2.5 -100 POST 0
+/mix/10 ON  +2.5
+/mix/11 ON  -2.3 -100 POST 0
+/mix/12 ON  -2.3
+/mix/13 ON   -oo -100 POST 0
+/mix/14 ON   -oo
+/mix/15 ON   -oo -100 POST 0
+/mix/16 ON  -6.5
+/headamp/041 +30.5 OFF

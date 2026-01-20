@@ -1,0 +1,18 @@
+#4.0# 80 "Zoe IEM" 0 %0011000000010000 1                                                                                       
+/config "Zoe IEM" 53 WH
+/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 LCut 31.3 +0.00 2.0
+/eq/2 PEQ 158.9 +0.00 2.0
+/eq/3 PEQ 496.6 +0.00 2.0
+/eq/4 PEQ 1k97 +0.00 2.0
+/eq/5 PEQ 5k02 +0.00 2.0
+/eq/6 HShv 1k72 +3.75 2.0
+/mix ON  +0.2 OFF +0 OFF   -oo
+/mix/01 ON   -oo +0 POST 0
+/mix/02 ON   -oo
+/mix/03 ON   -oo +0 POST 0
+/mix/04 ON   -oo
+/mix/05 ON   -oo +0 POST 0
+/mix/06 ON   -oo

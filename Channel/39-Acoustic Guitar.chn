@@ -1,0 +1,31 @@
+#4.0# 3 "Acoustic Guitar" 0 %0011111100110100 1                                                                                
+/config "Guitar" 1 YE
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24  89
+/gate OFF GATE -80.0 60.0 10 50.2  258 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP PEAK LOG -25.0 3.0 1 0.00 30 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 2k79 +3.50 1.1
+/eq/2 VEQ 463.5 +3.25 1.1
+/eq/3 PEQ 654.7 -6.00 5.8
+/eq/4 HShv 8k43 -2.00 2.0
+/mix OFF  -8.4 ON +0 OFF   -oo
+/mix/01 ON   -oo +0 EQ-> 0
+/mix/02 ON   -oo
+/mix/03 ON  -3.3 +0 EQ-> 0
+/mix/04 ON  +1.0
+/mix/05 ON -37.0 +0 EQ-> 0
+/mix/06 ON   -oo
+/mix/07 OFF  -3.0 +0 EQ-> 0
+/mix/08 OFF  -3.0
+/mix/09 ON -22.0 +0 POST 0
+/mix/10 ON -22.0
+/mix/11 ON -12.0 +0 POST 0
+/mix/12 ON -12.0
+/mix/13 ON   -oo +0 POST 0
+/mix/14 ON  +0.5
+/mix/15 ON   -oo +0 POST 0
+/mix/16 ON  -4.3
+/headamp/037 +32.0 OFF

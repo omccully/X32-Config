@@ -1,0 +1,17 @@
+#4.0#
+show "MyShow" 0 0 0 0 0 0 0 0 0 0 "4.13"
+scene/000 "Craig" "" %000000000 1
+scene/001 "Save drum add" "" %000000000 1
+scene/002 "Craig Current" "" %000000000 1
+scene/003 "Char step cello" "" %000000000 1
+scene/004 "Char ang cell dr" "" %000000000 1
+scene/005 "C S L J bass dru" "" %000000000 1
+scene/006 "C S A Cell Drum" "" %000000000 1
+scene/007 "C C Cell key Dru" "" %000000000 1
+scene/008 "Clie an cell bas" "" %000000000 1
+scene/009 "Drum mikey appro" "" %000000000 1
+scene/011 "Chty stpn drum" "" %000000000 1
+scene/013 "Special" "" %000000000 1
+scene/015 "Temp" "" %000000000 1
+scene/017 "Before christmas" "" %000000000 1
+scene/019 "Christmas" "" %000000000 1
