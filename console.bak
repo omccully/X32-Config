@@ -1,4 +1,4 @@
-#4.0# console.bak     2026-07-12_11h37 X32 4.13 X32-0B-37-6E                                                                   
+#4.0# console.bak     2026-07-12_11h45 X32 4.13 X32-0B-37-6E                                                                   
 -prefs "ablesque" 80 50 100 100 ON 48K CARD ON ON ON ON OFF OFF ON %0100 OFF CUES 24h OFF OFF NORM "X32-0B-37-6E" USB 0 "4.13"
 -prefs/ip OFF
 -prefs/ip/addr 10 1 10 110
@@ -1960,7 +1960,7 @@
 /main/st/eq/4 PEQ 1k26 +3.50 0.9
 /main/st/eq/5 PEQ 5k02 +0.00 2.0
 /main/st/eq/6 PEQ 7k34 +2.50 1.3
-/main/st/mix ON  -8.7 +0
+/main/st/mix ON   -oo +0
 /main/st/mix/01 ON -18.0 +0 POST 0
 /main/st/mix/02 ON -18.0
 /main/st/mix/03 ON -10.0 +0 POST 0
